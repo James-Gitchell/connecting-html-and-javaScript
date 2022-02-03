@@ -1,0 +1,20 @@
+{
+  "name": "connecting-html-and-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/James-Gitchell/connecting-html-and-javaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/James-Gitchell/connecting-html-and-javaScript/issues"
+  },
+  "homepage": "https://github.com/James-Gitchell/connecting-html-and-javaScript#readme"
+}
